@@ -1,0 +1,16 @@
+# path  sha256-12  git-blob-sha
+404.html  7c98e2396420  5f465253ca4ce2ce0403b3a11fadacf8f9ad4ea8
+README.md  929b4a987e20  1c5e2141323e2e145bc23ed565271917e2a5259b
+aviso-legal.html  13d133aae5a0  89e547df2779c7761e007d7525d3ab8de470b2e9
+baja.html  613f2bcbc475  8c4f1205f923b39b386b94e5561e86ca45ec1b64
+config.js  9c63b7ce3868  8257c16ffb925f1c90f19276abecb2086059cdd3
+confirmar.html  8a94a0636421  9a730ccd78b9d1336f20e8ed1876e9ac116b9f1b
+ejemplos/muestra-forestal-cyl.html  44a5b5aa4c2b  109179bf0bf6b58c41eabd0c3cc94faa31b1e1a4
+ejemplos/muestra-residuos-and.html  4a3cc6e54827  dcdb04a0c646ef9e1ca8db7c1745cb46cc037bff
+favicon.svg  50439c8c25c9  d177d1eaa523c1c493f28449e731229f29ebc3a8
+img/contours.svg  3297c989e6a7  4d533b0e6b1549f76bb3ade2ab50abb3a61a2fae
+img/muestra-forestal-cyl-mobile.png  08b3c2f52882  c92a502604417f36b559bbc7b0fcb2418db700ba
+img/muestra-residuos-and-mobile.png  715b68efe95f  2c2c10d933e90d978dbd98a217ce7b7d6753c33f
+index.html  abc13f159036  a937d1dcddad7ae8bc7e72de9da6c4c195faa174
+privacidad.html  ae3a41fe11e2  7ab2bb2c822b67f005272062482d8c471df663af
+styles.css  71c2b16477da  447e7f2190bdad097eddf20e2532fe436cca29cd
